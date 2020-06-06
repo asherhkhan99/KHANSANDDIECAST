@@ -1,0 +1,112 @@
+@font-face{
+    font-family: "neon";
+    src: url('neon_80s/Neon.ttf');
+}
+.navbar{
+    font-family: neon;
+    background-color: #b00020 !important;
+}
+.navbar-brand>img{
+    width: 220px !important;
+    /* height: 100px !important; */
+    
+}
+.active{
+    
+    text-shadow: 5px 5px 15px black;
+    font-size: 1.3em;
+    
+
+
+}
+
+
+.nav-link{
+    font-weight: bold;
+    color: #FFF !important ;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+
+}
+
+.nav-link:hover{
+    background-color: #990507 !important;
+    box-shadow: 2px 2px 15px black;
+    border-radius: 15px;
+        
+}
+
+.fa-shopping-cart, .fa-user{
+    font-size: 22px;
+}
+.animate__animated{
+    text-shadow: 7px 7px 12px black;
+}
+.carousel-item{
+    font-family: neon;
+}
+.getstart{
+    background-color: #b00020 !important;
+    font-weight: bold;
+    color: #FFF !important ;
+    border-radius: 0 !important;
+    letter-spacing: 2px;
+    font-size: 30px !important;
+    font-family: neon;
+
+}
+.getstart:hover{
+    background-color: #990507 !important;
+}
+.services{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.boxtext{
+    margin: 10px;
+}
+.shipping,.support,.bestquality{
+    background-color: #b00020;
+    display: flex;
+    color: #FFF;
+    font-family: neon;
+    width:300px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 15px black;    
+    margin-top: 10px;
+}
+/* .pageHeading{
+    font-family: neon;
+    color: white;
+    background-color: #b00020;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 15px black;
+    
+} */
+.Channel{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    
+}
+.footer{
+    background-color: #b00020;
+    color: #FFF;
+    font-family: neon;
+    height: 40px;
+
+}
+.footerpara{
+    text-align: center;
+    }
+
+    
+@media only screen and (max-width: 600px) {
+
+    
+  }

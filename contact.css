@@ -1,0 +1,16 @@
+.main{
+    background-color: #b00020;
+    color: #FFF;
+    font-family: neon;
+}
+
+.heads{
+    font-size: 20px;
+}
+.iconslinks{
+    width: 50px;
+    height: 50px;
+}
+.iconslinks:hover{
+    background-color: #990507;
+}
